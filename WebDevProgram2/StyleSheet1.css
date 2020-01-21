@@ -1,0 +1,34 @@
+﻿body {    height: 979px;
+    margin-left: 76px;
+}
+div.p {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 10px;
+    background: white;
+    border: 3px solid gray;
+}
+div.s {
+    margin: 10px;
+    background: white;
+    border: 3px solid gray;
+    height: 225px;
+    width: 1348px;
+}
+
+}
+.subheading1 {
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+    }
+.sidelabel {
+    display: inline-block;
+    color: #800020;
+    text-align: left;
+}
+.rightcontrol {
+    margin-left: 10px;
+    width: 200px;
+}
